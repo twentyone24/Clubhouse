@@ -12,19 +12,7 @@
    </a>
   </p>
 
-## Featured ✨
-<div  style="display: inline-flex;">
-  <img src="images/ca-app-icon.png" alt="Logo" width="90">
-  <div>
-    <h3>Clubhouse</h3>
-    <p>Drop-in audio chat</p>
-  <div>
-</div>
-<br /><br />
-    
-
-
-    
+   
 ## 🤝 Contributing
 This is an open source project, so feel free to contribute. How?
 - Open an [issue](https://github.com/twentyone24/Clubhouse/issues/new). 
@@ -37,7 +25,7 @@ This is an open source project, so feel free to contribute. How?
 ```
 MIT License
 
-Copyright (c) 2021 Franck Ndame
+Copyright (c) 2021 Naveen Madhan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
